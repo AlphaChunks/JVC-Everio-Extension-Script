@@ -1,0 +1,1 @@
+# JVC-Everio-Extension-Script
